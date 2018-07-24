@@ -1,17 +1,17 @@
 def breakfast(morning_snacc="Frosted Flakes".downcase)
-  puts "Morning is the best time for #{morning_snacc}!"
+  "Morning is the best time for #{morning_snacc}!"
 end
 def lunch(noon_snacc="Grilled Cheese".downcase)
-  puts "Noon is the best time for #{noon_snacc}!"
+  "Noon is the best time for #{noon_snacc}!"
 end
 def dinner(evenining_snacc="Salmon".downcase)
-  puts "Evening is the best time for #{evenining_snacc}!"
+  "Evening is the best time for #{evenining_snacc}!"
 end
 
-breakfast
-lunch
-dinner
+puts breakfast
+puts lunch
+puts dinner
 
-breakfast("granola".downcase)
-lunch("Macaroni and Cheese".downcase)
-dinner("Spaghetti".downcase)
+puts breakfast("granola".downcase)
+puts lunch("Macaroni and Cheese".downcase)
+puts dinner("Spaghetti".downcase)
