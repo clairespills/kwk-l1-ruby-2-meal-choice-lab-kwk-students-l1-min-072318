@@ -15,6 +15,7 @@ snacks
 breakfast
 lunch
 dinner
+
 snacks("cheese its")
 breakfast("Cereal")
 lunch("Macaroni and Cheese")
