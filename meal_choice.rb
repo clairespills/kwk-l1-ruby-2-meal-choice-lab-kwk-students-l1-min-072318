@@ -1,5 +1,5 @@
 def snacks(snacc="Cheetos".downcase)
-  "Any time is the right time for #{snacc}!"
+  "Any time, is the right time for #{snacc}!"
 end
 def breakfast(morning_snacc="Frosted Flakes".downcase)
   "Morning is the best time for #{morning_snacc}!"
