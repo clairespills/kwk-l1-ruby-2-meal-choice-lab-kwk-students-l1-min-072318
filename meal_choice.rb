@@ -8,9 +8,9 @@ def dinner(evenining_snacc="Salmon")
   puts "Evening is the best time for #{evenining_snacc}!"
 end
 
-# breakfast
-# lunch
-# dinner
+breakfast
+lunch
+dinner
 
 breakfast("granola")
 lunch("Macaroni and Cheese")
