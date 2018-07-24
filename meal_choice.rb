@@ -1,5 +1,5 @@
 def snacks(snacc="Cheetos")
-  puts "#{snacks}"
+  puts "#{snacc}"
 end
 def breakfast(morning_snacc="Frosted Flakes")
   puts "Morning is the best time for #{morning_snacc}!"
