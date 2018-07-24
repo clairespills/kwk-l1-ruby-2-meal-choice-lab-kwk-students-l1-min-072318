@@ -12,6 +12,6 @@ end
 # lunch
 # dinner
 
-breakfast("granola").downcase
-lunch("Macaroni and Cheese").downcase
-dinner("Spaghetti").downcase
+breakfast("granola")
+lunch("Macaroni and Cheese")
+dinner("Spaghetti")
