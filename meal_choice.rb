@@ -8,3 +8,9 @@ def dinner(evenining_snacc="Salmon")
   puts "Evening is the best time for Frosted Flakes!"
 end
 
+breakfast
+lunch
+dinner
+breakfast("Cereal")
+lunch("Macaroni and Cheese")
+dinner("Spaghetti")
