@@ -1,4 +1,4 @@
-def snacks(snacc="Cheetos".downcase)
+def snacks(snacc="Cheetos")
   "Any time, is the right time for #{snacc}!"
 end
 def breakfast(morning_snacc="Frosted Flakes".downcase)
