@@ -5,7 +5,7 @@ def lunch(noon_snacc="Grilled Cheese")
   puts "Noon is the best time for #{noon_snacc}!"
 end
 def dinner(evenining_snacc="Salmon")
-  puts "Evening is the best time for Frosted Flakes!"
+  puts "Evening is the best time for #{evenining_snacc}!"
 end
 
 breakfast
